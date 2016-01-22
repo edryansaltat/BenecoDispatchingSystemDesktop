@@ -1,2 +1,2 @@
 # BenecoDispatchingSystemDesktop
-A Dispatching System for Benguet Electric Cooperative (Desktop Version).
+A Dispatching System for Beneco Electric Cooperative (Desktop Version).
